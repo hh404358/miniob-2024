@@ -1,21 +1,5 @@
 # MiniOB 2024
 
-![USTB LOGO](https://github.com/user-attachments/assets/72936f72-9dcb-4873-896f-6d731a01eeec)
-
-北京科技大学 我真的参加了系统内核赛
-
-队员：[王诺贤](https://bosswnx.xyz)、[廖玮珑](https://soulter.top)、[陈渠](https://blog.virtualfuture.top/)。
-
-初赛满分通过，全国排名第 19，北京赛区排名第 2，校排名第 1：
-
-![image](https://github.com/user-attachments/assets/abb3adff-a905-4f54-8025-618011b4e061)
-
-开发记录：
-
-- [OceanBase 2024 初赛 MiniOB 开发记录](https://zhuanlan.zhihu.com/p/5953505884)
-- [OceanBase 数据库内核实现赛 / 自己实现一个数据库](https://blog.soulter.top/posts/2024-oceanbase-database.html)
-- [OceanBase 数据库大赛初赛结束之后](https://blog.virtualfuture.top/posts/miniob/)
-
 ## 开发规范
 
 - 每次提交必须过编译；
